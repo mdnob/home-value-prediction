@@ -4,7 +4,7 @@ Several prediction models designed to predict log errors of home prices from Zil
 
 ## Datasets
 
-Download the following datasets from [Kaggle](https://www.kaggle.com/competitions/zillow-prize-1/) and place in the `datasets` directory.
+Download the following datasets from [Kaggle](https://www.kaggle.com/competitions/zillow-prize-1/data) and place in the `datasets` directory.
 - properties_2016.csv
 - properties_2017.csv
 - train_2016_v2.csv
