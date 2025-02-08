@@ -1,1 +1,0 @@
-Please place datasets from Kaggle page in this directory. Due to Github filesize limitations, the datasets must be downloaded externally.
